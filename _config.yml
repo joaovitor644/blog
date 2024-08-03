@@ -1,8 +1,8 @@
-site: Gesko
-title: Gesko
+site: JVBlog
+title: JVBlog
 greetings: Hello there! 👋
 description: >-
-  just a minimalist, personal blog
+  just my personal blog for my searchs
 lang: en-US
 timezone:  Europe/Rome
 #repo: https://github.com/DavideBri/Gesko # site repo [optional]
@@ -11,15 +11,15 @@ discus-identifier: powex # replace with your disqus shortname
 comments-enabled: true # true to enable disqus comments, false to hide them
 
 author:
-  name: gesko
+  name: JVBlog
   bio: just a minimalist, personal blog
   userpicture: 
   username: # general username
-  github: DavideBri # github username
+  github: joaovitor644 # github username
   twitter: # twitter username
   mastodon: # mastodon profile (ex. mastodon.social/@my_username)
   linkedin: # linkedin profile
-  email: your-email@email.com # email adress
+  email: jv644@academico.ufs.br # email adress
 
 # Font Settings
 googlewebfonts: family=Play:wght@400;700&family=Source+Code+Pro:ital,wght@0,200;0,300;0,400;0,600;0,700;0,900;1,300;1,400;1,500;1,600;1,700;1,900
