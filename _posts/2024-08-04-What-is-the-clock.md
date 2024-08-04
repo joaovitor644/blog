@@ -30,14 +30,14 @@ Um período é o tempo que o sinal de alta voltagem (sinal lógico 1) permanece 
 
 Atualmente com os avanços da tecnologia, principalmente em processadores, os circuitos de  clock tiveram avanços significativos em relação a sua frequência podendo ter a capacidade de 5 GHz (5 bilhões de ciclos em um único segundo) ou mais. Além de manter os circuitos sincronizados , o clock é fundamental para a execução de instruções de uma máquina e a transferência de dados.
 
-| Frequência | Ciclos/Seg          | Período |
-| ---------- | ------------------- | ------- |
-| 1Hz        | 1 ciclo/segundo     | 1s      |
-| 10Hz       | 10 ciclos/segundo   | 0.1s    |
-| 100Hz      | 100 ciclos/segundo  | 0.01s   |
-| 1KHz       | 1000 ciclos/segundo | 1ms     |
-| 1MHz       | 106 ciclos/segundo  | 1μs     |
-| 1GHz       | 109 ciclos/segundo  | 1ns     |
+| Frequência |     Ciclos/Seg      | Período |
+| :--------: | :-----------------: | :-----: |
+|    1Hz     |   1 ciclo/segundo   |   1s    |
+|    10Hz    |  10 ciclos/segundo  |  0.1s   |
+|   100Hz    | 100 ciclos/segundo  |  0.01s  |
+|    1KHz    | 1000 ciclos/segundo |   1ms   |
+|    1MHz    | 106 ciclos/segundo  |   1μs   |
+|    1GHz    | 109 ciclos/segundo  |   1ns   |
 
 Tabela de frequências 
 
