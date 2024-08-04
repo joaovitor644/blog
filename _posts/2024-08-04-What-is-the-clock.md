@@ -39,9 +39,6 @@ Atualmente com os avanços da tecnologia, principalmente em processadores, os ci
 | 1MHz       | 106 ciclos/segundo  | 1μs     |
 | 1GHz       | 109 ciclos/segundo  | 1ns     |
 
-| Frequência | Ciclos/Seg | Período |
-| ---------- | ---------- | ------- |
-| teste      | teste      | teste   |
 Tabela de frequências 
 
 
